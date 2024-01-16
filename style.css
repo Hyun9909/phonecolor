@@ -1,0 +1,16 @@
+.color-primary {
+    background-color : pink;
+}
+.color-white {
+    background-color: white;
+}
+
+.font-50 {
+    font-size: 50px;
+}
+
+.gradient-background {
+    background: linear-gradient(to right, red, orange 30%, yellow 50%, green 70%, blue);
+  }
+
+#rainbow {    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, purple);    width: 500px;    height: 300px;}
